@@ -1,0 +1,16 @@
+{
+  "apiID": "package_24bec4__c__function_aadhd55dbymgw",
+  "apiName": "node10301",
+  "label": {
+    "zh_CN": "node10301",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
