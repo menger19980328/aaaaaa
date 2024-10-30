@@ -11,7 +11,7 @@
  */
   
  module.exports = async function (params, context, logger) {
-  logger.info(`${new Date()} 函数开始执行`);
+  logger.info(`${new Date()} 函数开始执行1`);
     const tenant = context.tenant;
     logger.info(
       `tenant.id = ${tenant.id}\n` +
