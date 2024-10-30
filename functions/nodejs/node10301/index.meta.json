@@ -3,14 +3,15 @@
   "apiName": "node10301",
   "label": {
     "zh_CN": "node10301",
-    "en_US": ""
+    "en_US": null
   },
   "description": {
     "zh_CN": "自定义函数",
     "en_US": "Custom Function"
   },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
   "longTaskMode": true,
-  "frontendSDKInvokable": true,
   "input": [],
   "output": []
 }
