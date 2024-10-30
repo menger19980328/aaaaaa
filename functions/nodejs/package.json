@@ -3,6 +3,10 @@
     "@byted-apaas/baas-sdk-node": "1.0.16",
     "@byted-apaas/faas-sdk-node": "1.0.11",
     "@byted-apaas/server-common-node": "2.0.13",
-    "@byted-apaas/server-sdk-node": "1.1.14"
+    "@byted-apaas/server-sdk-node": "1.1.14",
+    "md5": "2.3.0",
+    "axios": "1.7.7",
+    "a-sync-waterfall": "1.0.1",
+    "agent-base": "7.1.1"
   }
 }
